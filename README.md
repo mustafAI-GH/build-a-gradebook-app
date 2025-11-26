@@ -1,1 +1,6 @@
-# build-a-gradebook-app
+## 🧠 About This Project
+
+I created this project as part of the [FreeCodeCamp](https://www.freecodecamp.org) program — **Build a Gradebook App**. 
+I used JavaScript to complete it.
+
+Next step.. ⏳
